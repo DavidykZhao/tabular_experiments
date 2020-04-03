@@ -2,3 +2,6 @@ models
 data/
 Model*
 DL_model
+catboost_info/
+*.csv
+
